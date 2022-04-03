@@ -15,7 +15,7 @@ if (window.top !== window.self) {
             const i = document.createElement("img");
 			const ts = Math.floor(Date.now() / 10000);
             i.src = "https://raw.githubusercontent.com/Auron956/httyd-place/main/melvor_idle_template.png?tstamp=" + ts;
-            i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
+            i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
             console.log(i);
             return i;
         })())
