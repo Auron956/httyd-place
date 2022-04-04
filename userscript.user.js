@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         r/httyd Logo template
+// @name         Melvor Idle r/place overlay
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  try to take over the canvas!
